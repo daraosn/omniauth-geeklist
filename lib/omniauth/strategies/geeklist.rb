@@ -9,7 +9,7 @@ module OmniAuth
       option :client_options, {
         :site => 'http://geekli.st',
         :request_token_url => 'http://api.geekli.st/v1/oauth/request_token',
-        :authorize_url => 'http://geekli.st/oauth/authorize',
+        :authorize_path => '/oauth/authorize',
         :access_token_url => 'http://api.geekli.st/v1/oauth/access_token'
       }
 
