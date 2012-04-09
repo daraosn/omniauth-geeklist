@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = "omniauth-geeklist"
   s.version     = Omniauth::Geeklist::VERSION
   s.authors     = ["Diego Araos"]
-  s.email       = ["daraosn@gmail.com"]
+  s.email       = ["d@wehack.it"]
   s.homepage    = "https://github.com/daraosn/omniauth-geeklist"
   s.summary     = %q{OmniAuth strategy for Geeklist}
   s.description = %q{OmniAuth strategy for Geeklist}
